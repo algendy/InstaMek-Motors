@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Logo="instamek-sdpi" Company="www.instaMek.com" Copyright="FAWOZ Inc." Description="Functional Agonstic design by FAWOZ">
+  <ActionDesign>
+    <Actions>
+      <Action Id="ChooseTheme" ShowItemsOnClick="False" />
+    </Actions>
+  </ActionDesign>
+  <SchemaModules>
+    <SchemaModule Name="SystemAspNetModule" Version="15.1.7.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="15.1.7.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
