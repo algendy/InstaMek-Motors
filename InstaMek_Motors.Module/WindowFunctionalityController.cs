@@ -27,7 +27,7 @@ namespace InstaMek_Motors.Module
         protected override void OnActivated()
         {
             base.OnActivated();
-            Frame
+           
             // Perform various tasks depending on the target Window.
         }
         protected override void OnDeactivated()
